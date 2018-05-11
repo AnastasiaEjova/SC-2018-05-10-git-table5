@@ -9,3 +9,5 @@ A git learning example
 2. Open gitbash
 3. Get an error
 4. Get back to making stone soup
+
+5. Try committing something on github... again.
